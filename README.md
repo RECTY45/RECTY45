@@ -1,5 +1,5 @@
-<a align="left" href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=RECTY45&label=Hello%20World&color=0&icon=1&pretty=true" />
+<a align="center" href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=RECTY45&label=Online&color=0&icon=1&pretty=true" />
 </a>
 
 <p align="left">
