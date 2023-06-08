@@ -2,7 +2,7 @@
   <img src="https://visitcount.itsvg.in/api?id=RECTY45&label=Online&color=0&icon=1&pretty=true" />
 </a>
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/RECTY45">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=recty45&theme=algolia&hide_border=false&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=recty45&theme=algolia&hide_border=false"/>
