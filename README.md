@@ -4,7 +4,7 @@
 
 <p align="left">
 <a href="https://github.com/RECTY45">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=recty45&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=recty45&theme=algolia&hide_border=false&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RECTY45&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
