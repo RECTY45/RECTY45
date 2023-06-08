@@ -5,6 +5,7 @@
 <p align="left">
 <a href="https://github.com/RECTY45">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=recty45&theme=algolia&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=recty45&theme=algolia&hide_border=false"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RECTY45&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
@@ -20,7 +21,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ꧾꧾ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/recty.exploit) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rectyexploit) 
 # 📊 GitHub Stats:
 ![]()<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=recty45&theme=algolia&hide_border=false)<br/>
+![]()<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=recty45&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🐦 Latest Tweet
