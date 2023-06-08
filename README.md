@@ -1,4 +1,4 @@
-<a align="center" href="https://visitcount.itsvg.in">
+<a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=RECTY45&label=Online&color=0&icon=1&pretty=true" />
 </a>
 
