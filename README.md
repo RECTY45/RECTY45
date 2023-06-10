@@ -28,7 +28,7 @@
 </a>
 </p>
 
-## 🏆<img src="https://readme-typing-svg.demolab.com?font=Tilt+Prism&pause=1000&multiline=true&width=435&lines=GITHUB+TROPHIES+%3A"/>
+## 🏆<img src="https://readme-typing-svg.demolab.com?font=Tilt+Prism&size=30&pause=1000&vCenter=true&multiline=true&width=435&lines=GITHUB+TROPHIES+%3A"/>
 <p align="center">
  <img src="https://github-profile-trophy.vercel.app/?username=RECTY45&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
 </p>
