@@ -33,7 +33,7 @@
  <img src="https://github-profile-trophy.vercel.app/?username=RECTY45&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
 </p>
 
-## 🌐 <img src="https://readme-typing-svg.demolab.com?font=Tilt+Prism&pause=10000&multiline=true&width=435&lines=Socials+%3A"> Socials:
+## 🌐 <img src="https://readme-typing-svg.demolab.com?font=Tilt+Prism&pause=10000&multiline=true&width=435&lines=%F0%9F%8C%90+Socials+%3A)"> 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ꧾꧾ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/recty.exploit) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rectyexploit) 
 
 ## 
