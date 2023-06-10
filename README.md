@@ -36,11 +36,12 @@
 </p>
 </a>
 ## 
+<p>
 <img src="https://readme-typing-svg.demolab.com?font=Tilt+Prism&pause=10000&multiline=true&width=435&lines=%F0%9F%8C%90+Socials+%3A"> 
 <a href="https://facebook.com/ꧾꧾ"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"></a> 
 <a href="https://instagram.com/recty.exploit"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
 <a href="https://twitter.com/rectyexploit"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white"></a>
-
+</p>
 ##
 <a href="https://github.com/RECTY45">
 <img src="https://readme-typing-svg.demolab.com?font=Tilt+Prism&size=30&pause=10000&multiline=true&width=435&lines=Random Dev Quote :">
@@ -48,4 +49,3 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
 </a>
----
