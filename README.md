@@ -18,7 +18,6 @@
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=rectyexploit)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ---
-[![](https://media.tenor.com/htK6C7Jwqk4AAAAM/cantik-sekaleee.gif)
+[](https://media.tenor.com/htK6C7Jwqk4AAAAM/cantik-sekaleee.gif)
 
