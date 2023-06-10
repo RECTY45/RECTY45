@@ -23,7 +23,7 @@
   
 </a>
 </p>
-
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 ## 🏆 GitHub Trophies
 <p align="center">
  <img src="https://github-profile-trophy.vercel.app/?username=RECTY45&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
