@@ -8,7 +8,7 @@
 - :school: I am a `Junior` at [Akba Makassar University](http://www.unitama.ac.id/).
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- :student: I’m currently learning a few `programming languages`.
 - :nerd_face: Always `learning new things`.
 - :boom: You can visit [Instagram](https://www.instagram.com/recty.exploit/).
 
