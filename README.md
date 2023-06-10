@@ -3,9 +3,8 @@
 <p align="center">
 <img width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&pause=1000&vCenter=true&width=435&lines= *RECTY (フェリー)*">	
-<img width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-</p>
 </a>
+</p>
 <a href="https://github.com/RECTY45">
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px> <img src="https://readme-typing-svg.demolab.com?font=Tilt+Prism&size=30&pause=1000000&color=38C2FF&vCenter=true&multiline=true&repeat=false&width=435&lines=ABOUT+ME++%3A">
 
