@@ -36,7 +36,10 @@
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ꧾꧾ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/recty.exploit) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rectyexploit) 
 
-## ✍️ <img src="https://readme-typing-svg.demolab.com?font=Tilt+Prism&size=30&pause=10000&multiline=true&width=435&lines=Random Dev Quote">
+## 
+---
+
+<img src="https://readme-typing-svg.demolab.com?font=Tilt+Prism&size=30&pause=10000&multiline=true&width=435&lines=Random Dev Quote :">
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
