@@ -2,7 +2,7 @@
 
 <p align="center">
 <img width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&pause=1000&center=true&multiline=true&repeat=false&width=435&lines=RECTY.Exploit">	
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&pause=1000&width=435&lines=RECTY.Exploit">	
 <img width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 </p>
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> <img src="https://readme-typing-svg.demolab.com?font=Tilt+Prism&size=30&pause=1000000&color=38C2FF&vCenter=true&multiline=true&repeat=false&width=435&lines=ABOUT+ME++%3A">
