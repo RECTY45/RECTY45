@@ -12,7 +12,3 @@
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ꧾꧾ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/recty.exploit) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rectyexploit) 
-
-<p align="center">
-<img src="https://media.tenor.com/htK6C7Jwqk4AAAAM/cantik-sekaleee.gif"/>
-</p>
