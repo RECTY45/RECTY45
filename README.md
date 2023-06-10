@@ -28,7 +28,7 @@
 </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Tilt+Prism&size=30&pause=10000&multiline=true&width=435&lines=🏆 Github Profile Trophy">
+<img src="https://readme-typing-svg.demolab.com?font=Tilt+Prism&size=30&pause=10000&multiline=true&width=435&lines=🏆 Github Profile Trophy :">
 <p align="center">
  <img src="https://github-profile-trophy.vercel.app/?username=RECTY45&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
 </p>
