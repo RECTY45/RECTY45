@@ -27,7 +27,7 @@
 </a>
 </p>
 
-## 🏆 GitHub Trophies
+## 🏆<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px><img src="https://readme-typing-svg.demolab.com?font=Tilt+Prism&size=30&pause=1000000&color=38C2FF&vCenter=true&multiline=true&repeat=false&width=435&lines=Github+Trophies+%3A"/>
 <p align="center">
  <img src="https://github-profile-trophy.vercel.app/?username=RECTY45&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
 </p>
