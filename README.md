@@ -4,10 +4,11 @@
 <p align="center">
 <a href="https://github.com/RECTY45">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=recty45&theme=algolia&hide_border=false&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=recty45&theme=algolia&hide_border=false"/>
-  <br><br>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+  <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=recty45&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <br><br>
+  <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+  
 </a>
 </p>
 
