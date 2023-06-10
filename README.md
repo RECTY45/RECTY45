@@ -18,3 +18,10 @@
 <p align="center">
     <img src="https://i.pinimg.com/originals/55/d6/8e/55d68ed5419f4a6ea1d9cfe2fec06d40.gif"/>
   </p>
+
+
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=RECTY45&icon=0&color=0)](https://visitcount.itsvg.in)
