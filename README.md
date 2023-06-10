@@ -20,5 +20,5 @@
 [![](https://gtce.itsvg.in/api?username=rectyexploit)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=recty45&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://media.tenor.com/htK6C7Jwqk4AAAAM/cantik-sekaleee.gif)
 
