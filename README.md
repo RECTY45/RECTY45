@@ -3,6 +3,7 @@
   </p>
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%93%8A+GitHub+Status"/>
+  <br>
 <a href="https://github.com/RECTY45">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=recty45&theme=algolia&hide_border=false&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=recty45&theme=algolia&hide_border=false"/>
