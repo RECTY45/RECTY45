@@ -5,7 +5,7 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-- :school: I am a `Junior` at [Faculty of Computers & Informatics](http://www.unitama.ac.id/) at [Akba Makassar University](http://www.unitama.ac.id/).
+- :school: I am a `Junior` at [Akba Makassar University](http://www.unitama.ac.id/).
 - :trophy: 2x `ACPC` Finalist.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
