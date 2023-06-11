@@ -8,7 +8,6 @@
 </p>
 <a href="https://github.com/RECTY45">
 <img src="https://readme-typing-svg.demolab.com?font=Tilt+Prism&size=30&pause=1000000&color=38C2FF&vCenter=true&multiline=true&repeat=false&width=435&lines=ABOUT+ME++%3A">
-
 - :school: I am a `Junior` at [Akba Makassar University](http://www.unitama.ac.id/).
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
