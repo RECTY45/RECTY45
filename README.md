@@ -6,8 +6,10 @@
 <img width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 </a>
 </p>
+<p align="center">
 <img align="left" src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px>
 <img align="left" src="https://readme-typing-svg.demolab.com?font=Tilt+Prism&size=30&pause=1000000&color=38C2FF&vCenter=true&multiline=true&repeat=false&width=435&lines=ABOUT ME :"/>
+ <p>
  <br>
 
 - A passionate Self-taught Front-end developer
