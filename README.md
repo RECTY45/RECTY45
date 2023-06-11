@@ -4,6 +4,7 @@
 <img width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&pause=1000&vCenter=true&width=435&lines= *RECTY (フェリー)*">	
 <img width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </a>
 </p>
 <a href="https://github.com/RECTY45">
