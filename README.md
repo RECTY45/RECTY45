@@ -8,9 +8,9 @@
 </p>
 <img align="left" src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px>
 <img align="left" src="https://readme-typing-svg.demolab.com?font=Tilt+Prism&size=30&pause=1000000&color=38C2FF&vCenter=true&multiline=true&repeat=false&width=435&lines=ABOUT ME :"/>
- <br><br> 
+ <br>
  
-- A passionate Self-taught Front-end developer
+
 - Playing CTF's at spare time
 - Currently learning Web Development by Self
 - Personal website [link](https://www.0xabdulkhalid.ml)
