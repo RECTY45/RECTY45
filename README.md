@@ -16,7 +16,7 @@
 - Personal website [link](https://www.0xabdulkhalid.ml)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
 
-<br><br>
+<br>
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
  <img align="left" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px><img src="https://readme-typing-svg.demolab.com?font=Tilt+Prism&size=30&pause=1000000&color=38C2FF&vCenter=true&multiline=true&repeat=false&width=435&lines=Github+Status+%3A"/>
