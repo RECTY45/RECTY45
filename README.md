@@ -25,9 +25,9 @@
 <p align="center">
  <a href="https://github.com/RECTY45">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RECTY45&theme=algolia&hide_border=true&include_all_commits=false&count_private=false"/>
-  <img height"185em" src="https://github-readme-streak-stats.herokuapp.com/?user=RECTY45&theme=algolia&hide_border=true"/>
+  <img height"180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RECTY45&theme=algolia&hide_border=true"/>
   <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=recty45&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RECTY45&theme=algolia&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>  
 </a>
  </p>
  <a href="https://github.com/RECTY45">
@@ -53,6 +53,6 @@
 # 📊 GitHub Stats:
 ![]()<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RECTY45&theme=algolia&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RECTY45&theme=algolia&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![]()
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
