@@ -52,10 +52,4 @@
 </p>
 </a>
 
-
-# 📊 GitHub Stats:
-![]()<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RECTY45&theme=algolia&hide_border=true)<br/>
-![]()
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
