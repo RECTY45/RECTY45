@@ -5,7 +5,7 @@
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
     <br><br>
     <img width="200" height="200" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" alt="left-sticker"/>
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&pause=1000&vCenter=true&width=600&lines=RECTY+(フェリー)" alt="typing-svg"/>
+    <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=30&pause=1000&vCenter=true&width=435&lines=%20*RECTY%20(%E3%83%95%E3%82%A7%E3%83%AA%E3%83%BC)*%22" alt="typing-svg"/>
     <img width="200" height="200" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" alt="right-sticker"/>
   </a>
 </p>
