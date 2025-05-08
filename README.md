@@ -17,7 +17,9 @@
 - 📚 Currently learning Web Development independently  
 - 📸 Instagram: [recty.exploit](https://www.instagram.com/recty.exploit)  
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="animated banner" width="100%" />
+</p>
 
 ### <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50"/> GitHub Status :
 <p align="center">
@@ -28,14 +30,18 @@
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="animated banner" width="100%" />
+</p>
 
 ### 🏆 GitHub Profile Trophy :
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=RECTY45&theme=radical&no-frame=false&no-bg=true&margin-w=5"/>
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="animated banner" width="100%" />
+</p>
 
 ### 🌐 Socials :
 <p align="center">
