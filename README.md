@@ -2,15 +2,14 @@
 
 <p align="center">
   <a href="https://github.com/RECTY45">
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="animated banner" width="100%" />
-</p>
     <br><br>
     <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=30&pause=1000&vCenter=true&width=435&lines=%20*RECTY%20(%E3%83%95%E3%82%A7%E3%83%AA%E3%83%BC)*%22" alt="typing-svg"/>
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="animated banner" width="100%" />
+</p>
 
 ### <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50"/> ABOUT ME :
 - 🎨 A passionate Self-taught Front-end Developer  
