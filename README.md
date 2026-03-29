@@ -27,8 +27,7 @@
   <a href="https://github.com/RECTY45">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RECTY45&theme=algolia&hide_border=true&include_all_commits=false&count_private=false"/>
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RECTY45&theme=algolia&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RECTY45&theme=algolia&hide_border=true&layout=compact"/>
-  </a>
+     </a>
 </p>
 
 <p align="center">
