@@ -5,6 +5,10 @@
     <br><br>
     <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=30&pause=1000&vCenter=true&width=435&lines=%20*RECTY%20(%E3%83%95%E3%82%A7%E3%83%AA%E3%83%BC)*%22" alt="typing-svg"/>
   </a>
+  <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding GIF"/>
+</div>
+
 </p>
 
 <p align="center">
