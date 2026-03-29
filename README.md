@@ -22,7 +22,7 @@
 </p>
 
 ### 
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="45"/>** GitHub Status** :
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="45"/>Github Status :
 <p align="center">
   <a href="https://github.com/RECTY45">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RECTY45&theme=algolia&hide_border=true"/>
