@@ -25,7 +25,6 @@
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50"/> GitHub Status :
 <p align="center">
   <a href="https://github.com/RECTY45">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RECTY45&theme=algolia&hide_border=true&include_all_commits=false&count_private=false"/>
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RECTY45&theme=algolia&hide_border=true"/>
      </a>
 </p>
