@@ -86,5 +86,7 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
-
+<p align="center">
+  <img src="https://camo.githubusercontent.com/5d300cd0cce081554a95295b6f3a34d541cf48641516ff16ea89a34baddd6d74/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f403a73796c656e742d7379733f7468656d653d72756c653334"/>
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
