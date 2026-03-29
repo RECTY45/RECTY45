@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=30&pause=1000&vCenter=true&width=435&lines=%20*RECTY%20(%E3%83%95%E3%82%A7%E3%83%AA%E3%83%BC)*%22" alt="typing-svg"/>
   </a>
   <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding GIF"/>
+  <img src="https://64.media.tumblr.com/0870408ef69639327475f93f665ac490/92c7bc6db974c4d5-ab/s1280x1920/867979c9a1d803b0d13ff8cdc7393fcf33c84511.gifv" width="500" alt="Coding GIF"/>
 </div>
 
 </p>
