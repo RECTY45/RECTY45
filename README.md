@@ -33,7 +33,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="animated banner" width="100%" />
 </p>
 
-### 🌐 Socials :
+### 🌐 Connect with me on social media :
 <p align="center">
   <a href="https://facebook.com/ꧾꧾ">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/>
